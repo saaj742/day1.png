@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:#7e1325;
+    font-size:100px;
+    background:tomato ;
+    display:inline-block;
+
+}
+span{
+    color: #d40c0c;
+    font-size:50px ;
+    display: block;
+}
+
+
+.alamin{
+    height:100px;
+    width:100px;
+    background:linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    border-radius:50%;
+} 
+.ana{
+    height:100px;
+    width:100px;
+    background:linear-gradient(to right, #7e1325, #8c393d, #985756, #a27472, #aa918f);;
+}
